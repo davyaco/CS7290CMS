@@ -3,3 +3,16 @@ body {
     background: skyblue;
     text-align: center;
 }
+
+h1 {
+    color: red;
+    font-family: verdana;
+    font-size: 300%;
+    border: 2px solid navy;
+    padding: 30px;
+  }
+p  {
+    font-family: courier;
+    font-size: 160%;
+    margin: 50px;
+  }
