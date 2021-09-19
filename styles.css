@@ -5,9 +5,8 @@ body {
 }
 
 h1 {
-    color: red;
     font-family: verdana;
-    font-size: 300%;
+    font-size: 200%;
     border: 2px solid navy;
     padding: 30px;
   }
